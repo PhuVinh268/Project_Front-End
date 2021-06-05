@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Login</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <div class="hero">
+        <div class="form-box">
+<!-- button -->
+            <div class="button-box">
+                <div id="btn"></div>
+                <button type="button" class="toggle-btn" onclick="login()">Log In</button>
+                <button type="button" class="toggle-btn" onclick="register()">Register</button>
+            </div>
+<!-- social -->
+            <div class="social-icons">
+                <img src="/Form_Login/login-reg-img/fb.png">
+                <img src="/Form_Login/login-reg-img/tw.png">
+                <img src="/Form_Login/login-reg-img/gp.png">
+            </div>
+<!-- login -->
+            <form id="login" class="input-group">
+                <input type="text" class="input-field" placeholder="User ID" required>
+                <input type="text" class="input-field" placeholder="Enter Password" required>
+                <input type="checkbox" class="check-box"> 
+                <span>Remember Password</span>
+                <button type="submit" class="submit-btn">Log in</button>
+            </form>
+<!-- register -->
+            <form id="register" class="input-group">
+                <input type="text" class="input-field" placeholder="User ID" required>
+                <input type="email" class="input-field" placeholder="Email ID" required>
+                <input type="text" class="input-field" placeholder="Enter Password" required>
+                <input type="checkbox" class="check-box"> 
+                <span>I agree to the terms & conditions</span>
+                <button type="submit" class="submit-btn">Register</button>
+            </form>
+        </div>        
+    </div>
+<!-- JavaScript -->
+    <script src="/Form_Login/app.js"></script>
+</body>
+
+</html>
