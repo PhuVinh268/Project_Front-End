@@ -5,7 +5,7 @@
 * Màn hình IPad: nút bấm 46-47px (dùng <b>padding</b>)
 * Từ khóa tìm kiếm: <b>tag a mail to, tag a phone number, input type submit style on safari iphone, css text shadow properties</b>
 * <b> width: 150px </b> thì <i>height tự động = 150px, ngược lại</i>
-* affect Lightbox html css, Filterable Lightbox Gallery
+* Make a Image gallery Filter with HTML and CSS, affect Lightbox html css, Filterable Lightbox Gallery
 
 # API 
 <b> API Movies: </b> https://api.apify.com/v2/key-value-stores/QubTry45OOCkTyohU/records/LATEST?fbclid=IwAR2cfxwfWRBk6N-NFJU28TmxUkoysIorqbcNiWafjjdB4dUODxyrQMHNoVQ
