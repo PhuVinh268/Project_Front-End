@@ -7,6 +7,7 @@
 * <b> width: 150px </b> thì <i>height tự động = 150px, ngược lại</i>
 * Make a Image gallery Filter with HTML and CSS, Affect Lightbox html css, Filterable Lightbox Gallery
 
+mock api
 # API 
 <b> API Movies: </b> https://api.apify.com/v2/key-value-stores/QubTry45OOCkTyohU/records/LATEST?fbclid=IwAR2cfxwfWRBk6N-NFJU28TmxUkoysIorqbcNiWafjjdB4dUODxyrQMHNoVQ
 <br><br> <b> API Music: </b> https://api.apify.com/v2/key-value-stores/EJ3Ppyr2t73Ifit64/records/LATEST?fbclid=IwAR3XAxfkjy5AUCuxmLkBGjY8ANzUl7yh3p2FbWKPjk-LnWns1h-AXVv4DZg
