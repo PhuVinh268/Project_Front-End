@@ -6,6 +6,8 @@
 * Từ khóa tìm kiếm: <b>tag a mail to, tag a phone number, input type submit style on safari iphone, css text shadow properties</b>
 * <b> width: 150px </b> thì <i>height tự động = 150px, ngược lại</i>
 * Make a Image gallery Filter with HTML and CSS, Affect Lightbox html css, Filterable Lightbox Gallery
+* https://www.niemvuilaptrinh.com/article/Tao-Hieu-Ung-Lightbox-Voi-Thu-Vien-LightgalleryJS?fbclid=IwAR0Y7n3gEc9lwF8TsXZre3ucLJ5sxq7qsHUVEOIkwcjNtmSjh3eStWE2mlI
+
 
 mock api
 # API 
